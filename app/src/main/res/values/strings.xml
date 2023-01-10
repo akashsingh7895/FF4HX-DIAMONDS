@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FF4HX DIAMONDS</string>
+
+    <string name="drawerClose">drawerClose</string>
+    <string name="drawerOpen">drawerOpen</string>
+
+    // applovin ads
+
+
+    <string name="supported_email">akash@gmail.com</string>
+    <string name="privacy_policy">https://appct3.blogspot.com/2022/11/raistar-voice-changer.html</string>
+
+    <!--    Applovin Ads-->
+    <!--    Applovin Ads-->
+<!--    <string name="inter">beb90c3186a74f8a</string>-->
+<!--    <string name="netive">32ac1df235e06e73</string>-->
+<!--    <string name="applovinSdk">K3Nf_7D5htbmWpmEzPHqiT5EtCI48VK61LI8bkxlt4agGdT078eyKxEewuh8sPw6S2-q9VbgmiMtNPck8ctAnQ</string>-->
+
+    <!--    Applovin Ads-->
+    <string name="inter">05423ad43267556b</string>
+    <string name="netive">a1f042f86e38620c</string>
+    <string name="ApplovinSdk">_AZ7TkTRuqMRADHmrKfZNtw0vJFSzcfDgSsV5voTGrXU5rAlC4XFt6RPV7DSuMPh-hJ1Gwe6rwtLQw1PnkyfeI</string>
+
+
+
+
+</resources>

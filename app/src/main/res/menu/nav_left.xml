@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group">
+        <item android:id="@+id/share"
+            android:title="Share"
+            android:icon="@drawable/ic_baseline_share_24"/>
+    </group>
+
+    <group android:id="@+id/group2">
+        <item android:id="@+id/rates"
+            android:title="Rate us"
+            android:icon="@drawable/ic_baseline_star_outline_24"/>
+    </group>
+
+    <group android:id="@+id/group3">
+        <item android:id="@+id/PrivacyPolicy"
+            android:title="Privacy Policy"
+            android:icon="@drawable/privacy"/>
+    </group>
+
+    <group android:id="@+id/group4">
+        <item android:id="@+id/contact"
+            android:title="Contact"
+            android:icon="@drawable/ic_baseline_contacts_24"/>
+    </group>
+
+
+
+
+</menu>
